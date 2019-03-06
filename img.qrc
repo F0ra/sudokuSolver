@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>border3.png</file>
+        <file>SVM_model.xml</file>
+    </qresource>
+</RCC>
